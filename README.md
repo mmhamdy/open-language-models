@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Open Language Models</h1>
+  <h1>The Open Language Models List</h1>
 </div>
 
 ## 📄 Introduction
