@@ -2,7 +2,7 @@
   <h1>Open Language Models</h1>
 </div>
 
-## Introduction
+## 📄 Introduction
 
 This is a list of permissively licensed language models with MIT, Apache 2.0, or other similar licenses. We are using the term language model broadly here to include not only autoregressive models but also models that were trained with different objectives such as MLM.
 
@@ -15,7 +15,7 @@ This work was mostly inspired by [Stella Biderman](https://github.com/StellaAthe
 > [!IMPORTANT]
 > This is still a work in progress. Contributions, corrections, and feedback are very welcome!
 
-## Models
+## 🤖 Models
 
 | Model                       | Parameters   | Architecture    | Encoder   | Decoder   | MoE   |   Year | Hugging Face                                                               | License    |
 |:----------------------------|:-------------|:----------------|:----------|:----------|:------|-------:|:---------------------------------------------------------------------------|:-----------|
@@ -170,6 +170,6 @@ This work was mostly inspired by [Stella Biderman](https://github.com/StellaAthe
 | Pile-T5-Large👑             | 783M         | Transformer     | ✅        | ✅        | -     |   2024 | [🤗](https://huggingface.co/EleutherAI/pile-t5-large)                             | Apache 2.0 |
 | Pile-T5-XL👑                | 2.85B        | Transformer     | ✅        | ✅        | -     |   2024 | [🤗](https://huggingface.co/EleutherAI/pile-t5-xl)                                | Apache 2.0 |
 
-## Resources
+## 📚 Resources
 
 WIP
