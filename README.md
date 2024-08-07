@@ -172,4 +172,10 @@ This work was mostly inspired by [Stella Biderman](https://github.com/StellaAthe
 
 ## 📚 Resources
 
-WIP
+### About Openness
+
+- **[Blog post]** [What "Open" Means](https://future.mozilla.org/news/what-open-means/): A great blog post by John Shaughnessy discussing how the many different incarnations of the word "open".
+- **[Paper]** [Towards a Framework for Openness in Foundation Models](https://foundation.mozilla.org/en/research/library/towards-a-framework-for-openness-in-foundation-models/): In this paper, Mozilla and Columbia Institute of Global Politics brought together over 40 leading scholars and practitioners working on openness and AI to discuss the highly debated definitions and benefits of open sourcing foundation models. Among this team are Victor Storchan, Yann LeCun, Justine Tunney, Nathan Lambert, and many others.
+- **[Paper]** [Rethinking open source generative AI](https://dl.acm.org/doi/10.1145/3630106.3659005): This paper surveys over 45 generative AI models using an evidence-based framework that distinguishes 14 dimensions of openness, from training datasets to scientific and technical documentation and from licensing to access methods.
+- **[Paper]** [Risks and Opportunities of Open-Source Generative AI](https://arxiv.org/abs/2405.08597): This paper analyzes the risks and opportunities of open-source generative AI models using a three-stage framework for Gen AI development (near, mid
+and long-term), and argues that, overall, the benefits of open-source Gen AI outweigh its risks.
