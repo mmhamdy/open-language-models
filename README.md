@@ -169,6 +169,9 @@ This work was mostly inspired by [Stella Biderman](https://github.com/StellaAthe
 | Pile-T5-Base👑              | 248M         | Transformer     | ✅        | ✅        | -     |   2024 | [🤗](https://huggingface.co/EleutherAI/pile-t5-base)                              | Apache 2.0 |
 | Pile-T5-Large👑             | 783M         | Transformer     | ✅        | ✅        | -     |   2024 | [🤗](https://huggingface.co/EleutherAI/pile-t5-large)                             | Apache 2.0 |
 | Pile-T5-XL👑                | 2.85B        | Transformer     | ✅        | ✅        | -     |   2024 | [🤗](https://huggingface.co/EleutherAI/pile-t5-xl)                                | Apache 2.0 |
+| SmolLM-135M👑               | 135M          | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/HuggingFaceTB/SmolLM-135M)                            | Apache 2.0 |
+| SmolLM-360M👑               | 360M          | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/HuggingFaceTB/SmolLM-360M)                            | Apache 2.0 |
+| SmolLM-1.7B👑               | 1.7B          | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/HuggingFaceTB/SmolLM-1.7B)                            | Apache 2.0 |
 
 ## 📚 Resources
 
