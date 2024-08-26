@@ -126,6 +126,7 @@ This work was mostly inspired by [Stella Biderman](https://github.com/StellaAthe
 | Palmyra-Large-20B           | 20B          | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/Writer/palmyra-large)                                 | Apache 2.0 |
 | SEA-LION-3B                 | 3B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/aisingapore/sea-lion-3b)                              | MIT        |
 | SEA-LION-7B                 | 7B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/aisingapore/sea-lion-7b)                              | MIT        |
+| PLaMo-13B                   | 13B          | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/pfnet/plamo-13b)                                      | Apache 2.0 |
 | LiteLlama                   | 460M         | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/ahxt/LiteLlama-460M-1T)                               | MIT        |
 | H2O-Danube                  | 1.8B         | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/h2oai/h2o-danube-1.8b-base)                           | Apache 2.0 |
 | H2O-Danube2                 | 1.8B         | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/h2oai/h2o-danube2-1.8b-base)                          | Apache 2.0 |
