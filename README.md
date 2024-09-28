@@ -185,3 +185,14 @@ This work was mostly inspired by [Stella Biderman](https://github.com/StellaAthe
 - **[Paper]** [Rethinking open source generative AI](https://dl.acm.org/doi/10.1145/3630106.3659005): This paper surveys over 45 generative AI models using an evidence-based framework that distinguishes 14 dimensions of openness, from training datasets to scientific and technical documentation and from licensing to access methods.
 - **[Paper]** [Risks and Opportunities of Open-Source Generative AI](https://arxiv.org/abs/2405.08597): This paper analyzes the risks and opportunities of open-source generative AI models using a three-stage framework for Gen AI development (near, mid
 and long-term), and argues that, overall, the benefits of open-source Gen AI outweigh its risks.
+
+## 📌 Citation
+
+```bibtex
+@misc{hamdy2024openlmlist,
+  title = {The Open Language Models List},
+  author = {Mohammed Hamdy},
+  url = {https://github.com/mmhamdy/open-language-models},
+  year = {2024},
+}
+```
