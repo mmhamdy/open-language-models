@@ -88,12 +88,14 @@ This work was mostly inspired by [Stella Biderman](https://github.com/StellaAthe
 | RedPajama-INCITE-3B👑       | 2.8B         | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-3B-v1)         | Apache 2.0 |
 | RedPajama-INCITE-7B👑       | 6.9B         | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/togethercomputer/RedPajama-INCITE-7B-Base)            | Apache 2.0 |
 | FLM                         | 101B         | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/CofeAI/FLM-101B)                                      | Apache 2.0 |
+| MPT-1B                      | 1.3B         | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/mosaicml/mpt-1b-redpajama-200b)                       | Apache 2.0 |
 | MPT-7B                      | 7B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/mosaicml/mpt-7b)                                      | Apache 2.0 |
 | MPT-7B-8K                   | 7B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/mosaicml/mpt-7b-8k)                                   | Apache 2.0 |
 | MPT-30B                     | 30B          | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/mosaicml/mpt-30b)                                     | Apache 2.0 |
 | Mistral-7B-v0.1             | 7B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/mistralai/Mistral-7B-v0.1)                            | Apache 2.0 |
 | Mistral-7B-v0.2             | 7B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/mistral-community/Mistral-7B-v0.2)                    | Apache 2.0 |
 | Mistral-7B-v0.3             | 7B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/mistralai/Mistral-7B-v0.3)                            | Apache 2.0 |
+| Falcon-1B                   | 1B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/tiiuae/falcon-rw-1b)                                  | Apache 2.0 |
 | Falcon-7B                   | 7B           | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/tiiuae/falcon-7b)                                     | Apache 2.0 |
 | Falcon-40B                  | 40B          | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/tiiuae/falcon-40b)                                    | Apache 2.0 |
 | TinyLlama                   | 1.1B         | Transformer     | -         | ✅        | -     |   2023 | [🤗](https://huggingface.co/TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T)  | Apache 2.0 |
