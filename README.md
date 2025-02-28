@@ -177,9 +177,10 @@ This work was mostly inspired by [Stella Biderman](https://github.com/StellaAthe
 | SmolLM-1.7B👑               | 1.7B         | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/HuggingFaceTB/SmolLM-1.7B)                            | Apache 2.0 |
 | GRIN                         | 42B          | Transformer     | -         | ✅        | ✅     |   2024 | [🤗](https://huggingface.co/microsoft/GRIN-MoE)                                  | MIT       |
 | OLMoE-1B-7B👑               | 7B           | Transformer      | -         | ✅        | ✅     |   2024 | [🤗](https://huggingface.co/allenai/OLMoE-1B-7B-0924)                           | Apache 2.0 |
-| Zamba2-1.2B                   | 1.2B           | SSM-Transformer | -         | ✅        | -    |   2024 | [🤗](https://huggingface.co/Zyphra/Zamba2-1.2B)                                   | Apache 2.0 |
-| Zamba2-2.7B                   | 2.7B           | SSM-Transformer | -         | ✅        | -    |   2024 | [🤗](https://huggingface.co/Zyphra/Zamba2-2.7B)                                   | Apache 2.0 |
-| Fox-1-1.6B                    | 1.6B         | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/tensoropera/Fox-1-1.6B)                            | Apache 2.0 |
+| Zamba2-1.2B                   | 1.2B          | SSM-Transformer | -         | ✅        | -    |   2024 | [🤗](https://huggingface.co/Zyphra/Zamba2-1.2B)                                   | Apache 2.0 |
+| Zamba2-2.7B                   | 2.7B          | SSM-Transformer | -         | ✅        | -    |   2024 | [🤗](https://huggingface.co/Zyphra/Zamba2-2.7B)                                   | Apache 2.0 |
+| Fox-1-1.6B                    | 1.6B         | Transformer     | -         | ✅        | -     |   2024 | [🤗](https://huggingface.co/tensoropera/Fox-1-1.6B)                               | Apache 2.0 |
+| Mistral-Small-3               | 24B         | Transformer     | -         | ✅        | -     |   2025 | [🤗](https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501)                 | Apache 2.0 |
 
 ## 📚 Resources
 
